@@ -133,15 +133,15 @@ function App() {
 
                       <div className="media-body">
                         <h4 className="card-title mbr-fonts-style display-5">
-                          Mehtab Palace</h4>
+                          Sartaj Resorts</h4>
                       </div>
                     </div>
 
                     <div className="card-box">
                       <p className="block-text mbr-fonts-style display-7" style={{fontWeight: '600'}}>
-                        Dhulkot Ahmedgarh,
+                        Halwara Road,
                                     <br />
-                        Link Road,
+                        Pakhowal,
                                     <br />
                         Ludhiana
                                     <br />
@@ -211,7 +211,7 @@ function App() {
 
       <section className="map1 cid-qIiXmYb55q" id="map1-b">
         <div className="google-map">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3431.0763406942588!2d75.81111961840196!3d30.688128105506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x292af8552d013d88!2sMehtab%20Palace!5e0!3m2!1sen!2sin!4v1578978424511!5m2!1sen!2sin" width="600" height="450" frameborder="0" style={{ "border": "0px" }} allowfullscreen=""></iframe>  
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3430.2429768635066!2d75.68502531500364!3d30.711568981644472!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39108714f63a5f97%3A0x5f28889998fe7061!2sSartaj%20Resorts!5e0!3m2!1sen!2sin!4v1580711423519!5m2!1sen!2sin" width="600" height="450" frameborder="0" style={{ "border": "0px" }} allowfullscreen=""></iframe>
         </div>
       </section>
 
