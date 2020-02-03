@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/17feb2020/static/js/main.abeade99.chunk.js",
+    "main.js.map": "/17feb2020/static/js/main.abeade99.chunk.js.map",
+    "runtime-main.js": "/17feb2020/static/js/runtime-main.f31dab96.js",
+    "runtime-main.js.map": "/17feb2020/static/js/runtime-main.f31dab96.js.map",
+    "static/js/2.cd542992.chunk.js": "/17feb2020/static/js/2.cd542992.chunk.js",
+    "static/js/2.cd542992.chunk.js.map": "/17feb2020/static/js/2.cd542992.chunk.js.map",
+    "index.html": "/17feb2020/index.html",
+    "precache-manifest.1987a15c904ab9cbb5514c434234dd45.js": "/17feb2020/precache-manifest.1987a15c904ab9cbb5514c434234dd45.js",
+    "service-worker.js": "/17feb2020/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f31dab96.js",
+    "static/js/2.cd542992.chunk.js",
+    "static/js/main.abeade99.chunk.js"
+  ]
+}
